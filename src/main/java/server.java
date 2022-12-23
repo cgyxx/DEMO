@@ -27,7 +27,7 @@ public class server {
 }
 class SocketServerPoolHandler {
     /**
-     * 1.创建一个线程池的成员变量用于存储一个线程池对象
+     * 1.创建一个线程池的成员变量用于存储一个线程池对 象
      */
     private ExecutorService executorService;
 
